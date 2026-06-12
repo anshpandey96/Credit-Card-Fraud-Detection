@@ -41,27 +41,27 @@ Credit_Card_Fraud_Detection/
 
 ### 📌 Class Distribution
 
-![Class Distribution](outputs/class_distribution.png)
+<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/007f4675-4661-4e05-bcfd-f73dd48e8f4e" />
 
 ### 📌 Amount by Class
 
-![Amount by Class](outputs/amount_by_class.png)
+<img width="1532" height="847" alt="image" src="https://github.com/user-attachments/assets/ec410a15-8bab-4523-896a-c4c4880f43dc" />
 
 ### 📌 Correlation Heatmap
 
-![Correlation Heatmap](outputs/correlation_heatmap.png)
+<img width="1293" height="967" alt="image" src="https://github.com/user-attachments/assets/2b9df693-c3b8-4e9f-82c8-97aa9ce2c299" />
 
 ### 📌 Confusion Matrix (Overall)
 
-![Confusion Matrix](outputs/confusion_matrix.png)
+<img width="1167" height="966" alt="image" src="https://github.com/user-attachments/assets/f7b444b2-d23a-4be2-a7f1-9257d4eaaf16" />
 
 ### 📌 Confusion Matrix - Logistic Regression
 
-![Confusion Matrix Logistic](outputs/confusion_matrix_logistic_regression.png)
+<img width="1168" height="972" alt="image" src="https://github.com/user-attachments/assets/561675f9-01fb-4793-aa9d-0d1ed0013e11" />
 
 ### 📌 Confusion Matrix - Random Forest
 
-![Confusion Matrix Random Forest](outputs/confusion_matrix_random_forest.png)
+<img width="1162" height="968" alt="image" src="https://github.com/user-attachments/assets/6c3771c2-471b-4d03-9eca-77c73c78a075" />
 
 ---
 
