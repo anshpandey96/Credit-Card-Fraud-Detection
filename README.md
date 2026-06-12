@@ -16,7 +16,6 @@ Credit_Card_Fraud_Detection/
 │── main.py                 # Command-line runner
 │── README.md               # Project documentation
 
-
 ---
 
 ## ⚙️ Features
@@ -39,6 +38,8 @@ Credit_Card_Fraud_Detection/
 
 ## 🖼️ Screenshots
 
+<img width="1536" height="1024" alt="Copilot_20260612_115736" src="https://github.com/user-attachments/assets/f56d704e-ffae-4e62-99ec-fc1db8d04803" />
+
 ### 📌 Class Distribution
 
 <img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/007f4675-4661-4e05-bcfd-f73dd48e8f4e" />
@@ -50,10 +51,6 @@ Credit_Card_Fraud_Detection/
 ### 📌 Correlation Heatmap
 
 <img width="1293" height="967" alt="image" src="https://github.com/user-attachments/assets/2b9df693-c3b8-4e9f-82c8-97aa9ce2c299" />
-
-### 📌 Confusion Matrix (Overall)
-
-<img width="1167" height="966" alt="image" src="https://github.com/user-attachments/assets/f7b444b2-d23a-4be2-a7f1-9257d4eaaf16" />
 
 ### 📌 Confusion Matrix - Logistic Regression
 
